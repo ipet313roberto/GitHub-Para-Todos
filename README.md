@@ -2,7 +2,8 @@
 
 Este es un primer texto para *modificar*, **cambiar** y jugar.
 
-> Es nuestro arenero personal
+> *Cambio de texto*
+-**para cambiar de tipo de escritura**
 
 Pueden:
 
